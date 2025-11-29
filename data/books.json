@@ -1,0 +1,14 @@
+[
+    {
+        "isbn": "9780000000001",
+        "title": "Sample Book",
+        "authors": [
+            "Test Author"
+        ],
+        "year": 2024,
+        "genre": "Test",
+        "copies_owned": 1,
+        "copies_available": 1,
+        "active": true
+    }
+]
